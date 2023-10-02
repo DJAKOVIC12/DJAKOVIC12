@@ -1,22 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Lautaro Sosa</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Desarrollador-Full%20Stack-brightgreen" alt="Data Engineer & Data Analitycs">
-  <img src="https://img.shields.io/badge/Pasión-Programación-ff69b4" alt="Pasión por la Programación">
-  <img src="https://img.shields.io/badge/Lenguajes-Favoritos-blue" alt="Python">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lautaro-sosa-970517212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/tu-perfil-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-lightblue" alt="Twitter">
-  </a>
-  <a href="mailto:lautasosa1992@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red" alt="Correo Electrónico">
-  </a>
-</p>
 
 <p align="center">
   ¡Bienvenido a mi perfil de GitHub! Soy un Analista de datos con un background en Contador Publico y experiencia en varias tecnologías y proyectos emocionantes.
