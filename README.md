@@ -45,7 +45,7 @@ Estos son algunos de los proyectos en los que he trabajado:
 
 1. [TerraSafe](https://github.com/DJAKOVIC12/TerraSafe) - Proyecto de prevencion sismos para la cruz roja.
 2. [MOOCS](https://github.com/DJAKOVIC12/PI_DA_MOOCS) - Comparacion entre diferentes MOOCS.
-3. [PELIS](https://github.com/DJAKOVIC12/PI_ML_OPS) - APP recomendacion de peliculas.
+3. [PELIS](https://github.com/DJAKOVIC12/MLOPS_PELIS) - APP recomendacion de peliculas.
 
 ## 📫 Contáctame
 
