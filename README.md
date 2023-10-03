@@ -2,14 +2,14 @@
 
 
 <p align="center">
-  ¡Bienvenido a mi perfil de GitHub! Soy un Analista de datos con un background en Contador Publico y experiencia en varias tecnologías y proyectos emocionantes.
+Soy un Analista de datos con un background en Contador Publico y experiencia en varias tecnologías y proyectos emocionantes.
 </p>
 
 ## 🚀 Sobre Mí
 
 - 🌱 Actualmente estoy aprendiendo y creciendo como Analista de datos.
 - 💼 Trabajo como Freelancer 
-- 🎯 Mis intereses incluyen .
+- 🎯 Mis intereses incluyen la programacion, el ajedrez y el futbol.
 - 💬 ¡Hablemos sobre desarrollo, tecnología o cualquier cosa interesante que te gustaría compartir!
 
 ## ⚙️ Stack de Tecnologías
